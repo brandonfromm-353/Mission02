@@ -1,0 +1,14 @@
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/bin/Debug/net8.0/Mission02
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/bin/Debug/net8.0/Mission02.deps.json
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/bin/Debug/net8.0/Mission02.runtimeconfig.json
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/bin/Debug/net8.0/Mission02.dll
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/bin/Debug/net8.0/Mission02.pdb
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.AssemblyInfoInputs.cache
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.AssemblyInfo.cs
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.csproj.CoreCompileInputs.cache
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.dll
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/refint/Mission02.dll
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.pdb
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/Mission02.genruntimeconfig.cache
+/Users/brandonfromm/RiderProjects/Mission02/Mission02/obj/Debug/net8.0/ref/Mission02.dll
