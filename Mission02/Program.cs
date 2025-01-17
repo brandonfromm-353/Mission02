@@ -24,11 +24,13 @@ class Program
         Console.WriteLine("Each \"*\" represents 1% of the total number of rolls.");
         Console.WriteLine($"Total number of rolls = {numRolls}.");
         Console.WriteLine();
+        
         // iterates through each possible roll result
         for (int i = 2; i <= 12; i++)
         {
             // calculates the percent of each roll number and displays the number and the percent in asterisks
             int dicePercentage = (rollsArray[i] * 100) / numRolls;
+            
             Console.Write($"{i}: ");
             Console.WriteLine(new string('*', dicePercentage));
             

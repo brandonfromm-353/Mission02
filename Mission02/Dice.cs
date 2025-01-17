@@ -14,6 +14,7 @@ public class Dice
             // get dice rolls
             int diceOne = rnd.Next(1, 7);
             int diceTwo = rnd.Next(1, 7);
+            
             int diceTotal = diceOne + diceTwo;
             
             // add rolls to the array for the given dice roll result
